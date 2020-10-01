@@ -1,6 +1,6 @@
 ## Description
 
-Simple API for POC NeuAPIX
+Simple API for POC
 
 ## Installation
 
